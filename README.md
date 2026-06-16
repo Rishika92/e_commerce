@@ -18,7 +18,12 @@ A simple backend application built using **Node.js**, **Express.js**, and **Mong
 * GET `/customers/:id`
 * PUT `/customers/:id`
 * DELETE `/customers/:id`
-
+### Orders
+* POST `/orders`
+* GET `/orders`
+* GET `/orders/:id`
+* PUT `/orders/:id`
+* DELETE `/orders/:id`
 ### Products
 
 * POST `/products`
